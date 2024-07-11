@@ -1,18 +1,21 @@
 # Career Buddy - Career Guidance AI Chatbot
 
 ## Overview
-Career Buddy is an innovative career counseling AI chatbot designed to provide personalized career advice and insights using real-time data from diverse sources. Leveraging advanced natural language processing (NLP) techniques and machine learning models, Career Buddy helps users navigate career decisions with confidence.
+Career Buddy is an innovative AI chatbot designed for personalized career advice and insights using real-time data. Leveraging advanced NLP techniques and machine learning models, Career Buddy empowers users to navigate career decisions confidently.
 
 ## Objective
-The primary objective of Career Buddy is to harness the power of natural language processing and machine learning to offer accurate and up-to-date career guidance. By integrating insights from Quora and other dynamic sources, the chatbot aims to empower users by providing comprehensive career recommendations tailored to their individual aspirations and market trends.
+Harnessing NLP and machine learning, Career Buddy provides accurate career guidance by integrating insights from dynamic sources like Quora. It aims to empower users with tailored career recommendations aligned with individual aspirations and market trends.
 
 ## Chatbot Model
-Career Buddy utilizes a sophisticated NLP model enhanced by a convolutional neural network (CNN). This model enables the chatbot to understand user queries effectively and deliver contextually relevant responses. By employing techniques such as word embedding and softmax activation, Career Buddy ensures that its recommendations are both accurate and insightful.
+Career Buddy employs a sophisticated NLP model enhanced by a CNN to understand and respond contextually to user queries. Techniques like word embedding and softmax activation ensure precise and insightful recommendations.
 
 ## Technologies & Tools Used 
-- **Web Scraping with Selenium:** Gather real-time data from diverse online sources.
-- **Python:** Core programming language for backend development and machine learning.
-- **Machine Learning:** Implemented for building predictive models and enhancing user interactions.
-- **Natural Language Processing (NLP):** Powers the chatbot's ability to understand and respond to user queries.
-- **Streamlit:** Used for developing an intuitive and interactive user interface for the chatbot.
+- **Web Scraping with Selenium:** Real-time data gathering from diverse online sources.
+- **Python:** Core language for backend development and ML implementation.
+- **Machine Learning:** Algorithms for predictive modeling and user interaction enhancement.
+- **NLP:** Powers the chatbot's ability to understand and respond accurately.
+- **Streamlit:** Develops an intuitive and interactive UI for seamless user experience.
+- **Flask:** Provides API endpoints for backend functionalities.
+- **TensorFlow:** Utilized for implementing machine learning models.
+- **SQL:** Efficient data management and storage for backend operations.
 

@@ -1,13 +1,13 @@
-# Career Buddy - Career Guidance AI Chatbot
+# Intelligent Career Counseling Chatbot
 
 ## Overview
-Career Buddy is an innovative AI chatbot designed for personalized career advice and insights using real-time data. Leveraging advanced NLP techniques and machine learning models, Career Buddy empowers users to navigate career decisions confidently.
+Intelligent Career Counseling Chatbot is an innovative AI chatbot designed to provide personalized career advice and insights using real-time data. Leveraging advanced NLP techniques and machine learning models, it empowers users to navigate career decisions confidently.
 
 ## Objective
-Harnessing NLP and machine learning, Career Buddy provides accurate career guidance by integrating insights from dynamic sources like Quora. It aims to empower users with tailored career recommendations aligned with individual aspirations and market trends.
+Harnessing NLP and machine learning, Intelligent Career Counseling Chatbot provides accurate career guidance by integrating insights from dynamic sources like Quora. It aims to empower users with tailored career recommendations aligned with individual aspirations and market trends.
 
 ## Chatbot Model
-Career Buddy employs a sophisticated NLP model enhanced by a CNN to understand and respond contextually to user queries. Techniques like word embedding and softmax activation ensure precise and insightful recommendations.
+Intelligent Career Counseling Chatbot employs a sophisticated NLP model enhanced by a CNN to understand and respond contextually to user queries. Techniques like word embedding and softmax activation ensure precise and insightful recommendations.
 
 ## Technologies & Tools Used 
 - **Web Scraping with Selenium:** Real-time data gathering from diverse online sources.
@@ -19,3 +19,12 @@ Career Buddy employs a sophisticated NLP model enhanced by a CNN to understand a
 - **TensorFlow:** Utilized for implementing machine learning models.
 - **SQL:** Efficient data management and storage for backend operations.
 
+## Contributing 
+I welcome contributions to enhance the project and make it even more effective. If you have any suggestions, bug fixes, or new features to add, please submit a pull request. I appreciate your contributions!
+
+## Contact
+For any questions or inquiries, feel free to reach out to me:
+- **Email:** ujjwalgupta1454@gmail.com
+- **LinkedIn:** [Ujjwal Gupta](https://www.linkedin.com/in/ujjwal-gupta24/)
+
+Thank you for visiting my project repository.
